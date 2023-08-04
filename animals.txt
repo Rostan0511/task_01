@@ -1,4 +1,5 @@
 wolf
 panther
 lion
-ben
+bear
+cheetah
